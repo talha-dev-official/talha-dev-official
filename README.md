@@ -1,4 +1,5 @@
 Muhammad Talha Sajjad - Full Stack Developer
+
 As a Full Stack Web Developer with 3 years of experience, I specialize in crafting dynamic and scalable web solutions that blend front-end innovation with back-end robustness. I have a strong foundation in HTML5, CSS3, and JavaScript (React.js, Vue.js, Next.js) and am proficient in back-end technologies such as Django, Node.js, and Core PHP. My expertise extends to WordPress theme and plugin development, enabling me to build tailored solutions for diverse client needs.
 
 🔧 Technical Skills
